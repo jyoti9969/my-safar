@@ -1,0 +1,18 @@
+{
+    "cache": {
+        "0ae659a2-3fdf-4d97-9ae5-1c633baae5e7": {
+            "data": {
+                "_id": "6186e3993622a113221df466",
+                "busAndAmenitiesProvider": [],
+                "startingCityName": "delhi",
+                "destinationCityName": "gaziabad",
+                "baseFare": "200",
+                "distanceBetweenCities": 46.167,
+                "travelTimeInSeconds": 3972,
+                "totalFare": 3,
+                "enc_bus_id": "0ae659a2-3fdf-4d97-9ae5-1c633baae5e7"
+            },
+            "expire": 1636230102038
+        }
+    }
+}

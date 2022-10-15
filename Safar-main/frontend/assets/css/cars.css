@@ -1,0 +1,12 @@
+/* only write css that is used in the cars.html and try using style.css */
+
+/* Selector using tag name */
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+.line1{
+    background-color: rgb(58, 39, 112);
+}
